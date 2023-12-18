@@ -1,0 +1,26 @@
+===================Test 4===================
+Student s1 is notified that Activity A1 has postponed.
+Student s2 is notified that Activity A1 has postponed.
+Student s1 is notified that Activity A1 has postponed.
+Student s2 is notified that Activity A1 has postponed.
+Student s1 is notified that Activity A1 has finished.
+Student s2 is notified that Activity A1 has finished.
+Student s1 is notified that Activity A2 has postponed.
+Student s2 is notified that Activity A2 has postponed.
+Student s1 is notified that Activity A2 has cancelled.
+Student s2 is notified that Activity A2 has cancelled.
+===================Test 2===================
+Student s1 is notified that Activity A1 has finished.
+Student s2 is notified that Activity A1 has finished.
+Student s1 is notified that Activity A2 has finished.
+Student s2 is notified that Activity A2 has finished.
+===================Test 3===================
+Student s1 is notified that Activity A1 has cancelled.
+Student s2 is notified that Activity A1 has cancelled.
+Student s1 is notified that Activity A2 has cancelled.
+Student s2 is notified that Activity A2 has cancelled.
+===================Test 1===================
+Student s1 is notified that Activity A1 has postponed.
+Student s1 is notified that Activity A2 has finished.
+Student s2 is notified that Activity A2 has finished.
+Student s2 is notified that Activity A3 has cancelled.

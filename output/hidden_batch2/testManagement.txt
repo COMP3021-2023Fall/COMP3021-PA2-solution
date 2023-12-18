@@ -1,0 +1,14 @@
+Student s1011 is notified that Activity STUDY_WORKSHOP_103 has postponed.
+Student s1028 is notified that Activity STUDY_WORKSHOP_103 has postponed.
+Student s1011 is notified that Activity STUDY_WORKSHOP_103 has finished.
+Student s1028 is notified that Activity STUDY_WORKSHOP_103 has finished.
+Student s1012 is notified that Activity STUDY_TUTORIAL_105 has postponed.
+Student s1029 is notified that Activity STUDY_TUTORIAL_105 has postponed.
+Student s1033 is notified that Activity STUDY_TUTORIAL_105 has postponed.
+Student s1012 is notified that Activity STUDY_TUTORIAL_105 has postponed.
+Student s1029 is notified that Activity STUDY_TUTORIAL_105 has postponed.
+Student s1033 is notified that Activity STUDY_TUTORIAL_105 has postponed.
+Student s1012 is notified that Activity STUDY_TUTORIAL_105 has cancelled.
+Student s1029 is notified that Activity STUDY_TUTORIAL_105 has cancelled.
+Student s1033 is notified that Activity STUDY_TUTORIAL_105 has cancelled.
+Student s1035 is notified that Activity STUDY_CONSULTATION_101 has finished.
